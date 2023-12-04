@@ -25,3 +25,9 @@
 >Sistema.manterCadastro(Object entidade): Este é um método estático da classe Sistema. Ele recebe um objeto entidade como parâmetro e imprime uma mensagem informando que o cadastro foi mantido para esse objeto.
 
 >Sistema.registrarJornada(Jornada jornada): Este é um método estático da classe
+
+### Diagrama:
+
+![Alt text](<imgs/Captura de tela 2023-12-04 110446.png>)
+
+![Alt text](imgs/diagram.png)
